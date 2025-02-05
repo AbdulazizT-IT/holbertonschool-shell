@@ -1,3 +1,2 @@
-$ echo "$PWD"
-/holbertonschool-shell/basics
-$
+#!/bin/bash
+pwd
